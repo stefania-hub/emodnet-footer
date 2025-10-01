@@ -1,0 +1,34 @@
+*{
+    border: solid red 1px;
+    box-sizing: border-box;
+}
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+.main-div{
+    height: 800px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+
+}
+.first-child{
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.divider{
+    height: 3px; 
+    background-color: white;
+}
+
+.second-child{
+    flex-grow: 1;
+}
+
+.second-child-fat{
+    flex-grow: 3;
+}
