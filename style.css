@@ -5,6 +5,7 @@
 html, body{
     margin: 0px;
     padding: 0px;
+    color: white;
 }
 .main-div{
     height: 800px;
@@ -31,4 +32,11 @@ html, body{
 
 .second-child-fat{
     flex-grow: 3;
+    flex-direction: row;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.third-child{
+ 
 }
