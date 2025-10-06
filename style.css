@@ -9,7 +9,7 @@ html, body{
 }
 .main-div{
     height: 800px;
-    background-color: blue;
+    background-color: #004494;
     display: flex;
     justify-content: center;
 
@@ -27,20 +27,40 @@ html, body{
 }
 
 .second-child{
-    flex-grow: 1;
+   display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
 }
 
 .second-child-fat{
-    flex-grow: 3;
+    /* flex-grow: 3; */
     flex-direction: row;
    display: flex;
-   align-items: center;
+   align-items: flex-start;
    justify-content: space-evenly;
+   gap: 10px;
 }
 .third-child{
     display: flex;
+    gap: 20px;
  
+}
+.third-child1{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+}
+.third-child2{
+    display: flex;
+    flex-direction: column;
 }
 a{
     color: white;
+}
+.altezza{
+    height: 40px;
+}
+.ul-margin{
+    margin: 0px;
 }
