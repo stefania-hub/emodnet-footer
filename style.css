@@ -38,5 +38,9 @@ html, body{
    justify-content: space-evenly;
 }
 .third-child{
+    display: flex;
  
+}
+a{
+    color: white;
 }
