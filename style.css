@@ -1,66 +1,94 @@
 *{
-    border: solid red 1px;
+    /* border: solid red 1px; */
     box-sizing: border-box;
 }
-html, body{
+
+html,
+body {
+    font-family:Arial,sans-serif;
+    font-size: 13px;
     margin: 0px;
     padding: 0px;
     color: white;
 }
-.main-div{
+h2, h3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-div {
     height: 800px;
     background-color: #004494;
     display: flex;
     justify-content: center;
 
 }
-.first-child{
-    width: 900px;
+
+.first-child {
+    width: 996px;
+    max-width:100% ;
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.divider{
-    height: 3px; 
+.divider {
+    height: 1px;
     background-color: white;
 }
 
-.second-child{
-   display: flex;
+.second-child {
+    display: flex;
     flex-direction: row;
     align-items: flex-start;
-    gap: 10px;
+    gap: 20px;
 }
 
-.second-child-fat{
-    /* flex-grow: 3; */
+.second-child-fat {
     flex-direction: row;
-   display: flex;
-   align-items: flex-start;
-   justify-content: space-evenly;
-   gap: 10px;
-}
-.third-child{
     display: flex;
-    gap: 20px;
- 
+    align-items: flex-start;
+    justify-content: space-evenly;
+    gap: 25px;
 }
-.third-child1{
+
+.third-child {
+    display: flex;
+    gap: 1px;
+}
+.third-child1 {
     display: flex;
     flex-direction: column;
     width: 33%;
+    margin: 20px 0px 10px 0px;
+    row-gap: 15px;
+
 }
-.third-child2{
+
+.third-child2 {
     display: flex;
     flex-direction: column;
 }
-a{
+
+a {
     color: white;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 13px;
 }
-.altezza{
+
+.altezza {
     height: 40px;
 }
-.ul-margin{
+
+.ul-margin {
     margin: 0px;
+}
+img {
+    margin: 0px 3px 0px 0px;
+    /* align-items: last baseline; */
+}
+.padding {
+   padding: 0px;
 }

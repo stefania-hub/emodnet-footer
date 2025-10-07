@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="twitter-icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="1.676"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!--!Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+  <path
+     fill="#ffffff"
+     d="m 441.78431,156.20341 c 0.28567,4.17075 0.28567,8.43419 0.28567,12.60495 0,128.55192 -100.55451,276.75273 -284.3331,276.75273 -56.65713,0 -109.219711,-15.94155 -153.4027511,-43.65389 7.9986541,0.92683 15.8068631,1.20488 24.0911831,1.20488 46.754036,0 89.699178,-15.38545 124.074348,-41.52218 -43.89737,-0.92683 -80.748306,-28.91723 -93.412841,-67.47354 6.189434,0.92683 12.378869,1.48293 18.85397,1.48293 8.950873,0 17.901748,-1.20488 26.281291,-3.33659 -45.801816,-8.9903 -80.081761,-48.19539 -80.081761,-95.46394 v -1.20489 c 13.33109,7.2293 28.757065,11.7708 45.135261,12.3269 -26.947846,-17.42449 -44.563928,-47.26856 -44.563928,-81.00533 0,-18.07326 4.951547,-34.663596 13.616755,-49.122212 49.22981,59.039342 123.122133,97.595652 206.060563,101.766412 -1.52356,-7.22931 -2.47578,-14.73667 -2.47578,-22.24403 0,-53.57102 44.56392,-97.224918 99.88795,-97.224918 28.75706,0 54.75269,11.770796 73.03532,30.678217 22.56764,-4.170754 44.27827,-12.326897 63.4179,-23.448909 -7.42731,22.614758 -23.23418,41.52218 -43.89737,53.57102 20.09186,-2.13171 39.61238,-7.50736 57.51413,-15.01471 -13.61676,19.27815 -30.6615,36.42458 -50.08681,50.3271 z"
+     id="path2"
+     style="stroke-width:0.939442;fill:#ffffff;fill-opacity:1" />
+</svg>
